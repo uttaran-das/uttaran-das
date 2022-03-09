@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @uttaran-das
 - 👀 I’m interested in Competitive Programming
-- 🌱 I’m currently learning Data Structures and Algorithm
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Web Development
+- 📫 How to reach me ... Email: dasuttaran18@gmail.com; Mobile No.: 6290247724
 
 <!---
 uttaran-das/uttaran-das is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
