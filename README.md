@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @uttaran-das
 - 👀 I’m interested in Competitive Programming and Machine Learning
 - 🌱 I’m currently learning Machine Learning
-- 📫 How to reach me ... Email: dasuttaran18@gmail.com; Mobile No.: 6290247724
+- 📫 How to reach me ... Email: dasuttaran18@gmail.com;
 - LinkedIn : www.linkedin.com/in/uttaran-das-00b328224
 
 <!---
